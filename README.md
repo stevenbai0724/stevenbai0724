@@ -6,7 +6,7 @@ I am also into full stack development with Javascript frameworks such as ReactJS
 
 You can find more info about me on my personal website https://stevenbai.ca
 
-Visitor Count: 
+Visitor Count: <br />
 ![Visitor Count](https://profile-counter.glitch.me/{stevenbai0724}/count.svg)
 
 <a href="https://github.com/stevenbai0724/stevenbai0724">
