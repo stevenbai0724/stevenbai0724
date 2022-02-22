@@ -13,4 +13,4 @@ You can find more info about me on my personal website https://stevenbai.ca
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=stevenbai0724&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Steven's GitHub Stats" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=<asdf>)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=<https://github.com/stevenbai0724>)
