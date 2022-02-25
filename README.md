@@ -2,7 +2,7 @@ Hello there! 👋
 
 I mainly use C++ for programming contests and algorithmic problems 🖥️
 
-I am also into full stack development with Javascript frameworks such as ReactJS, NodeJS and ExpressJS ⚙️
+I also work on full stack development with Javascript frameworks such as ReactJS, NodeJS and ExpressJS ⚙️
 
 You can find more info about me on my personal website https://stevenbai.ca
 
