@@ -1,8 +1,8 @@
-Hello there! 👋
+Grade 12 student studying in Toronto 📍
 
-I mainly use C++ for programming contests and algorithmic problems 🖥️
+I use a lot of C++ for competitive programming 🖥️
 
-I also work on full stack development with Javascript frameworks such as ReactJS, NodeJS and ExpressJS ⚙️
+Working on full stack development with Javascript frameworks such as ReactJS, NodeJS and ExpressJS ⚙️
 
 You can find more info about me on my personal website https://stevenbai.ca
 
