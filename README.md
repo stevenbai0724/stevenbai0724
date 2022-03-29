@@ -1,4 +1,6 @@
-Grade 12 student studying in Toronto 📍 Accepted into Computer Engineering @ University of Waterloo 🔧 
+Grade 12 student studying in Toronto 📍 
+
+Accepted into Computer Engineering @ University of Waterloo 🔧 
 
 I use C++ for competitive programming 🖥️
 
