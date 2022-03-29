@@ -4,7 +4,7 @@ Accepted into Computer Engineering @ University of Waterloo 🔧
 
 I use C++ for competitive programming 🖥️
 
-Working on full stack development with Javascript frameworks such as ReactJS, NodeJS and ExpressJS ⚙️
+Working on full stack development with ReactJS, NodeJS, ExpressJS and MongoDB ⚙️
 
 You can find more info about me on my personal website https://stevenbai.ca
 
