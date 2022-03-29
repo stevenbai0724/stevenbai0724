@@ -1,6 +1,6 @@
-Grade 12 student studying in Toronto 📍
+Grade 12 student studying in Toronto 📍 Accepted into Computer Engineering @ University of Waterloo 🔧 
 
-I use a lot of C++ for competitive programming 🖥️
+I use C++ for competitive programming 🖥️
 
 Working on full stack development with Javascript frameworks such as ReactJS, NodeJS and ExpressJS ⚙️
 
