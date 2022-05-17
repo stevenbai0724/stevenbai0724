@@ -1,8 +1,8 @@
 Grade 12 student studying in Toronto 📍 
 
-Accepted into Computer Engineering @ University of Waterloo 🔧 
+Incoming Fall 2022 Computer Science student @ University of Waterloo 🔧 
 
-I use C++ for competitive programming 🖥️
+Competitive programmer in C++ 🖥️
 
 Working on full stack development with ReactJS, NodeJS, ExpressJS and MongoDB ⚙️
 
