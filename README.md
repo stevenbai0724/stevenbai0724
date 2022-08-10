@@ -1,12 +1,10 @@
-Grade 12 student studying in Toronto 📍 
-
-Incoming Fall 2022 Computer Science student @ University of Waterloo 🔧 
-
-Competitive programmer in C++ 🖥️
+Computer Science @ University of Waterloo '27🔧 
 
 Working on full stack development with ReactJS, NodeJS, ExpressJS and MongoDB ⚙️
 
-You can find more info about me on my personal website https://stevenbai.ca
+Competitive programmer in C++ 🖥️
+
+More info about me on my personal website https://stevenbai.ca
 
 Visitor Count: <br />
 ![Visitor Count](https://profile-counter.glitch.me/{stevenbai0724}/count.svg)
