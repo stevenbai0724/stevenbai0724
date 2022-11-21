@@ -1,8 +1,6 @@
-Computer Science @ University of Waterloo '27🔧 
+Computer Science @ University of Waterloo '27
 
-Working on full stack development with ReactJS, NodeJS, ExpressJS and MongoDB ⚙️
-
-Competitive programmer in C++ 🖥️
+Working on full stack development with ReactJS, NodeJS, ExpressJS and MongoDB
 
 More info about me on my personal website https://stevenbai.ca
 
