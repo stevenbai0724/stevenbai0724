@@ -1,4 +1,4 @@
-Computer Science @ University of Waterloo '27
+Computer Science @ University of Waterloo '26
 
 Working on full stack development with ReactJS, NodeJS, ExpressJS and MongoDB
 
